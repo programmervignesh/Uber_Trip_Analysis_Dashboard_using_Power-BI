@@ -1,9 +1,12 @@
-**🚕 Uber Trip Analysis Dashboard | Power BI**
-📌 Project Overview
+## 🚕 Uber Trip Analysis Dashboard using Power BI
+
+### 📌 Project Overview
 
 This project focuses on analyzing Uber trip data using Power BI to uncover booking trends, customer behavior, time-based demand patterns, and location insights. The dashboard provides an interactive and business-friendly view of key performance metrics to support data-driven decision making.
 
-🎯 Objectives
+---
+
+### 🎯 Objectives
 
 Analyze overall booking performance and revenue trends
 
@@ -15,7 +18,9 @@ Discover top pickup and drop-off locations
 
 Build a professional, interactive Power BI dashboard suitable for business and interview use
 
-📊 Key KPIs
+---
+
+### 📊 Key KPIs
 
 Total Bookings
 
@@ -31,7 +36,9 @@ Average Trip Duration
 
 Farthest Trip Distance
 
-📈 Dashboard Pages
+---
+
+### 📈 Dashboard Pages
 1️⃣ Overview Analysis
 
 KPI summary cards
@@ -74,7 +81,9 @@ Detailed trip-level table
 
 Drill-through enabled for deeper analysis
 
-🛠️ Tools & Technologies Used
+---
+
+### 🛠️ Tools & Technologies Used
 
 Power BI Desktop
 
@@ -88,7 +97,9 @@ Interactive slicers & drill-through
 
 Custom KPIs and dynamic measures
 
-🧠 Key Features
+---
+
+### 🧠 Key Features
 
 Interactive dashboards with synced slicers
 
@@ -100,13 +111,17 @@ Optimized visuals for performance and readability
 
 Resume and interview-ready analytics project
 
-📂 Dataset
+---
+
+###📂 Dataset
 
 Uber trip dataset containing booking details, timestamps, locations, trip distance, vehicle type, and payment mode
 
 Data cleaned and transformed using Power Query
 
-🚀 How to Use
+---
+
+### 🚀 How to Use
 
 Download the .pbix file from this repository
 
