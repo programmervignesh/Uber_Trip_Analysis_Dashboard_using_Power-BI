@@ -53,7 +53,6 @@ Vehicle-wise booking performance
 
 Dynamic measure selector using disconnected tables
 
-
 2️⃣ Location Analysis
 
 Top pickup locations by total bookings
@@ -66,7 +65,6 @@ Preferred vehicle type by pickup location
 
 Location-wise booking distribution
 
-
 3️⃣ Time Analysis
 
 Total bookings by pickup hour
@@ -76,7 +74,6 @@ Total bookings by day of week
 Booking distribution by time slot (Morning, Afternoon, Evening, Night)
 
 Date range filtering for time-based analysis
-
 
 4️⃣ Details Tab
 
@@ -116,7 +113,7 @@ Resume and interview-ready analytics project
 
 ---
 
-###📂 Dataset
+### 📂 Dataset
 
 Uber trip dataset containing booking details, timestamps, locations, trip distance, vehicle type, and payment mode
 
